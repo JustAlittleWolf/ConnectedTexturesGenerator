@@ -1,0 +1,284 @@
+{
+    "0": {
+        "tl": "cr",
+        "tr": "cr",
+        "bl": "cr",
+        "br": "cr"
+    },
+    "1": {
+        "tl": "cr",
+        "tr": "edh",
+        "bl": "cr",
+        "br": "edh"
+    },
+    "2": {
+        "tl": "edh",
+        "tr": "edh",
+        "bl": "edh",
+        "br": "edh"
+    },
+    "3": {
+        "tl": "edh",
+        "tr": "cr",
+        "bl": "edh",
+        "br": "cr"
+    },
+    "4": {
+        "tl": "cr",
+        "tr": "edh",
+        "bl": "edv",
+        "br": "of"
+    },
+    "5": {
+        "tl": "edh",
+        "tr": "cr",
+        "bl": "of",
+        "br": "edv"
+    },
+    "6": {
+        "tl": "edv",
+        "tr": "of",
+        "bl": "edv",
+        "br": "of"
+    },
+    "7": {
+        "tl": "edh",
+        "tr": "edh",
+        "bl": "of",
+        "br": "of"
+    },
+    "8": {
+        "tl": "of",
+        "tr": "nu",
+        "bl": "of",
+        "br": "of"
+    },
+    "9": {
+        "tl": "of",
+        "tr": "of",
+        "bl": "of",
+        "br": "nu"
+    },
+    "10": {
+        "tl": "nu",
+        "tr": "of",
+        "bl": "nu",
+        "br": "of"
+    },
+    "11": {
+        "tl": "nu",
+        "tr": "nu",
+        "bl": "of",
+        "br": "of"
+    },
+    "12": {
+        "tl": "cr",
+        "tr": "cr",
+        "bl": "edv",
+        "br": "edv"
+    },
+    "13": {
+        "tl": "cr",
+        "tr": "edh",
+        "bl": "edv",
+        "br": "nu"
+    },
+    "14": {
+        "tl": "edh",
+        "tr": "edh",
+        "bl": "nu",
+        "br": "nu"
+    },
+    "15": {
+        "tl": "edh",
+        "tr": "cr",
+        "bl": "nu",
+        "br": "edv"
+    },
+    "16": {
+        "tl": "edv",
+        "tr": "of",
+        "bl": "cr",
+        "br": "edh"
+    },
+    "17": {
+        "tl": "of",
+        "tr": "edv",
+        "bl": "edh",
+        "br": "cr"
+    },
+    "18": {
+        "tl": "of",
+        "tr": "of",
+        "bl": "edh",
+        "br": "edh"
+    },
+    "19": {
+        "tl": "of",
+        "tr": "edv",
+        "bl": "of",
+        "br": "edv"
+    },
+    "20": {
+        "tl": "nu",
+        "tr": "of",
+        "bl": "of",
+        "br": "of"
+    },
+    "21": {
+        "tl": "of",
+        "tr": "of",
+        "bl": "nu",
+        "br": "of"
+    },
+    "22": {
+        "tl": "of",
+        "tr": "of",
+        "bl": "nu",
+        "br": "nu"
+    },
+    "23": {
+        "tl": "of",
+        "tr": "nu",
+        "bl": "of",
+        "br": "nu"
+    },
+    "24": {
+        "tl": "edv",
+        "tr": "edv",
+        "bl": "edv",
+        "br": "edv"
+    },
+    "25": {
+        "tl": "edv",
+        "tr": "nu",
+        "bl": "edv",
+        "br": "nu"
+    },
+    "26": {
+        "tl": "nu",
+        "tr": "nu",
+        "bl": "nu",
+        "br": "nu"
+    },
+    "27": {
+        "tl": "nu",
+        "tr": "edv",
+        "bl": "nu",
+        "br": "edv"
+    },
+    "28": {
+        "tl": "edv",
+        "tr": "of",
+        "bl": "edv",
+        "br": "nu"
+    },
+    "29": {
+        "tl": "edh",
+        "tr": "edh",
+        "bl": "nu",
+        "br": "of"
+    },
+    "30": {
+        "tl": "edv",
+        "tr": "nu",
+        "bl": "edv",
+        "br": "of"
+    },
+    "31": {
+        "tl": "edh",
+        "tr": "edh",
+        "bl": "of",
+        "br": "nu"
+    },
+    "32": {
+        "tl": "nu",
+        "tr": "nu",
+        "bl": "nu",
+        "br": "of"
+    },
+    "33": {
+        "tl": "nu",
+        "tr": "nu",
+        "bl": "of",
+        "br": "nu"
+    },
+    "34": {
+        "tl": "of",
+        "tr": "nu",
+        "bl": "nu",
+        "br": "of"
+    },
+    "35": {
+        "tl": "nu",
+        "tr": "of",
+        "bl": "of",
+        "br": "nu"
+    },
+    "36": {
+        "tl": "edv",
+        "tr": "edv",
+        "bl": "cr",
+        "br": "cr"
+    },
+    "37": {
+        "tl": "edv",
+        "tr": "nu",
+        "bl": "cr",
+        "br": "edh"
+    },
+    "38": {
+        "tl": "nu",
+        "tr": "nu",
+        "bl": "edh",
+        "br": "edh"
+    },
+    "39": {
+        "tl": "nu",
+        "tr": "edv",
+        "bl": "edh",
+        "br": "cr"
+    },
+    "40": {
+        "tl": "of",
+        "tr": "nu",
+        "bl": "edh",
+        "br": "edh"
+    },
+    "41": {
+        "tl": "nu",
+        "tr": "edv",
+        "bl": "of",
+        "br": "edv"
+    },
+    "42": {
+        "tl": "nu",
+        "tr": "of",
+        "bl": "edh",
+        "br": "edh"
+    },
+    "43": {
+        "tl": "of",
+        "tr": "edv",
+        "bl": "nu",
+        "br": "edv"
+    },
+    "44": {
+        "tl": "nu",
+        "tr": "of",
+        "bl": "nu",
+        "br": "nu"
+    },
+    "45": {
+        "tl": "of",
+        "tr": "nu",
+        "bl": "nu",
+        "br": "nu"
+    },
+    "46": {
+        "tl": "of",
+        "tr": "of",
+        "bl": "of",
+        "br": "of"
+    }
+}
