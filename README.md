@@ -8,7 +8,6 @@ To generate the connected textures simply create a texture as described in [Imag
 
 ## Image Format
 For using the most basic version (16x16) you have to uniquely paint each of the corners of the image.
-
 <br>
 ![Exampele Texture 16x16](https://imgur.com/w14INLq.png)
 <br>
@@ -19,7 +18,6 @@ The top right corner (3) is what a block with no connections diagonally will loo
 The bottom right corner (4) is what a fully surrounded block will look like.
 
 Here is what the 4 sectors look like after using the script to make a texture pack:
-
 <br>
 ![Generated Textures](https://imgur.com/D55PVly.png)
 <br>
@@ -27,7 +25,6 @@ Here is what the 4 sectors look like after using the script to make a texture pa
 **The 16x16 Format only works well for symmetrical block textures**
 
 There is also the option of using a 32x16 texture, the first 16x16 pixels function the same way as previously. The second 16x16 area (5) is used to fill transparent pixels after the textures have been generated. This is useful for generating **non-symmetrical block textures**, the version used to generate the connected yellow clay looks as follows:
-
 <br>
 ![Example Texture 32x16](https://imgur.com/p5tA6nq.png)
 <br>
