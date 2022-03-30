@@ -1,7 +1,7 @@
 # ConnectedTexturesGenerator
 This python script provides a quick and easy way to generate connected textures for optifine (using **ctm**) with minimal effort.
 <br>
-![Title Image](https://imgur.com/eNVGvdr.png)
+![Title Image](https://imgur.com/1iWKYBn.png)
 
 ## Usage
 In order to use this script you need to store both `generator.py` and `alignments.py` locally. Additionally you need to provide an image from which the script s going to create the connected textures. This image can either be 16x16 or 32x16.
