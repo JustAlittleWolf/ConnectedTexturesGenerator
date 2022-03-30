@@ -8,6 +8,10 @@ In order to use this script you need to store both `generator.py` and `alignment
 
 To generate the connected textures simply create a texture as described in [Image Format](##Image-Format). Then run the `generator.py` with `python generator.py`. When prompted, enter the location of your texture. The generated textures will be located in `/texure_name` where the `generator.py` is located. Only thing left to do is put the generated folder inside `assets/minecraft/mcpatcher/ctm` of a texture pack. Ideally the name of the provided texture should be the same as the minecraft block name. If that isn't the case simply rename the folder and the `.properties` file inside to match the block name.
 
+## Dependencies
+[Python](https://www.python.org/) needs to be installed 
+[Pillow](https://pillow.readthedocs.io/en/stable/) needs to be installed (`python -m pip install Pillow`)
+
 ## Image Format
 For using the most basic version (16x16) you have to uniquely paint each of the corners of the image.
 <br>
