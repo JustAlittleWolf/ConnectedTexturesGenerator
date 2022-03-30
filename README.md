@@ -16,11 +16,8 @@ For using the most basic version (16x16) you have to uniquely paint each of the 
 The image above is an example of how to split the texture.
 
 The top left corner (1) is what a corner in the final version will look like.
-
 The bottom left corner (2) is what the edge of a block in the final version will look like.
-
 The top right corner (3) is what a block with no connections diagonally will look like.
-
 The bottom right corner (4) is what a fully surrounded block will look like.
 
 Here is what the 4 sectors look like after using the script to make a texture pack:
