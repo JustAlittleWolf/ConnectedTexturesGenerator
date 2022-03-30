@@ -28,4 +28,4 @@ There is also the option of using a 32x16 texture, the first 16x16 pixels functi
 <br>
 ![Example Texture 32x16](https://imgur.com/p5tA6nq.png)
 <br>
-A clean version of this image `hardened_clay_stained_yellow.png` was used to create `ExampleTexturePack.zip`
+A clean version of this image *`hardened_clay_stained_yellow.png`* was used to create *`ExampleTexturePack.zip`*
