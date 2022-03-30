@@ -1,2 +1,2 @@
 # ConnectedTexturesGenerator
-A python script to quickly generate basic connected textures for Minecraft
+This python script provides a quick and easy way to generate connected textures with minimal effort.
