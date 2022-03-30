@@ -24,6 +24,7 @@ Here is what the 4 sectors look like after using the script to make a texture pa
 
 **The 16x16 Format only works well for symmetrical block textures**
 
-There is also the option of using a 32x16 texture, the first 16x16 pixels function the same way as previously. The second 16x16 area is used to fill transparent pixels after the textures have been generated. This is useful for generating **non-symmetrical block textures**, the version used to generate the connected yellow clay looks as follows:
+There is also the option of using a 32x16 texture, the first 16x16 pixels function the same way as previously. The second 16x16 area (5) is used to fill transparent pixels after the textures have been generated. This is useful for generating **non-symmetrical block textures**, the version used to generate the connected yellow clay looks as follows:
 <br>
-![Example Texture 32x16](https://imgur.com/rCdoLM3.png)
+![Example Texture 32x16](https://imgur.com/p5tA6nq.png)
+A clean version of this image `hardened_clay_stained_yellow.png` was used to create `ExampleTexturePack.zip`
