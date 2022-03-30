@@ -19,7 +19,7 @@ The bottom right corner (4) is what a fully surrounded block will look like.
 
 Here is what the 4 sectors look like after using the script to make a texture pack:
 <br>
-![Generated Textures](https://imgur.com/lc6fWRL.png)
+![Generated Textures](https://imgur.com/D55PVly.png)
 <br>
 
 **The 16x16 Format only works well for symmetrical block textures**
