@@ -186,7 +186,7 @@ while j < 47:
     if width == 2 * height:
         i = 0
         while i < height*height:
-            if temp[j][i % height, math.floor(i/height)][2] == 0:
+            if temp[j][i % height, math.floor(i/height)][3] == 0:
                 temp[j][i % height, math.floor(i/height)] = px[height + i % height, math.floor(i/height)]
             i += 1
 
