@@ -1,21 +1,25 @@
 # ConnectedTexturesGenerator
-This python script provides a quick and easy way to generate connected textures for optifine (using **ctm**) with minimal effort.
+
+This python script provides a quick and easy way to generate connected textures for Optifine (using **ctm**) with minimal effort.
 <br>
 ![Title Image](https://imgur.com/1iWKYBn.png)
 
 ## Usage
+
 In order to use this script you need to store both `generator.py` and `alignments.py` locally. Additionally you need to provide an image from which the script s going to create the connected textures. This image can either be a multiple of 16x16 (e.g. 32x32, 64x64, 128x128) or a multiple of 32x16 (e.g. 64x32, 128x64, 256x128).
 
-To generate the connected textures simply create a texture as described in [Image Format](##Image-Format). Then run the `generator.py` with `python generator.py`. When prompted, enter the location of your texture. The generated textures will be located in `/texure_name` where the `generator.py` is located. Only thing left to do is put the generated folder inside `assets/minecraft/mcpatcher/ctm` of a texture pack. Ideally the name of the provided texture should be the same as the minecraft block name. If that isn't the case simply rename the folder and the `.properties` file inside to match the block name.
+To generate the connected textures simply create a texture as described in [Image Format](##Image-Format). Then run the `generator.py` with `python generator.py`. When prompted, enter the location of your texture. The generated textures will be located in `/texure_name` where the `generator.py` is located. Only thing left to do is put the generated folder inside `assets/minecraft/mcpatcher/ctm` of a texture pack. Ideally the name of the provided texture should be the same as the Minecraft block name. If that isn't the case simply rename the folder and the `.properties` file inside to match the block name.
 
 ## Dependencies
-- [Python](https://www.python.org/) needs to be installed 
+
+- [Python](https://www.python.org/) needs to be installed
 - [Pillow](https://pillow.readthedocs.io/en/stable/) needs to be installed (`python -m pip install Pillow`)
 
 ## Image Format
+
 For using the most basic version (16x16) you have to uniquely paint each of the corners of the image.
 <br>
-![Exampele Texture 16x16](https://imgur.com/w14INLq.png)
+![Example Texture 16x16](https://imgur.com/w14INLq.png)
 <br>
 The image above is an example of how to split the texture.
 
