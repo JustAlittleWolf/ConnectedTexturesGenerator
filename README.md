@@ -6,7 +6,7 @@ This python script provides a quick and easy way to generate connected textures 
 
 ## Usage
 
-In order to use this script you need to store both `generator.py` and `alignments.py` locally. Additionally you need to provide an image from which the script s going to create the connected textures. This image can either be a multiple of 16x16 (e.g. 32x32, 64x64, 128x128) or a multiple of 32x16 (e.g. 64x32, 128x64, 256x128).
+In order to use this script you need to store both `generator.py` and `alignments.json` locally. Additionally you need to provide an image from which the script s going to create the connected textures. This image can either be a multiple of 16x16 (e.g. 32x32, 64x64, 128x128) or a multiple of 32x16 (e.g. 64x32, 128x64, 256x128).
 
 To generate the connected textures simply create a texture as described in [Image Format](##Image-Format). Then run the `generator.py` with `python generator.py`. When prompted, enter the location of your texture. The generated textures will be located in `/texure_name` where the `generator.py` is located. Only thing left to do is put the generated folder inside `assets/minecraft/mcpatcher/ctm` of a texture pack. Ideally the name of the provided texture should be the same as the Minecraft block name. If that isn't the case simply rename the folder and the `.properties` file inside to match the block name.
 
