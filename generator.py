@@ -197,7 +197,7 @@ print("Done")
 
 read = open(path + "/README.txt", "w+")
 read.write("Put this folder in assets\\minecraft\\mcpatcher\\ctm for it to be working.\n\nYou may delete this README.\n\nPlease note that you might have to rename " +
-           os.path.splitext(os.path.basename(userinput))[0] + " and it's contents in order for the textures to work properly. If you are not sure how, contact me on discord: JustAlittleWolf#7032")
+           os.path.splitext(os.path.basename(userinput))[0] + " and it's contents in order for the textures to work properly.")
 
 properties = open(
     path + "/" + os.path.splitext(os.path.basename(userinput))[0] + ".properties", "w+")
